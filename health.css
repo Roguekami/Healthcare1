@@ -1,0 +1,354 @@
+:html{
+    
+}
+
+body{background-size: cover;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+.begin{
+    
+    display: flex; 
+    justify-content: center;
+    flex-direction: row;
+    background-color:white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    padding-top: 10px;
+
+    }
+    .logo{
+     margin-right: 250px;
+    }
+    .emm{
+        display: flex;
+         flex-direction: row;
+         justify-content: space-between;
+        list-style-type: none;
+        margin-left: 50px;
+    }
+    #one{margin-right: 50px;
+    }
+    .two{margin-right: 50px;}
+    .three{margin-right: 50px;
+    }
+    .four{margin-right:50px;}
+    .btn{
+        margin-left: 250px;
+    }
+    .ron{ text-decoration: none;
+          color: inherit; }
+    
+    #hero{
+        background-image:url(5981257180118107472.jpg);
+        background-size: cover;
+        height: 600px;
+    }
+.words {
+    text-align: center;
+    padding-top:40px ;
+    color: rgb(0, 0, 0);
+    
+}
+.btnone{ padding: 5px 20PX ;
+    border: 5px solid red;
+    border-radius: 12px;
+    background-color:  red;
+    color: white;}
+.wlc{
+    padding-top: 20px;
+    font-size: x-large;
+}
+.pro{
+    padding-bottom:10px ;
+    font-size:larger;
+    font-weight: 700;
+}
+    
+.btn{ padding: 5px 20PX ;
+    border: 5px solid red;
+    border-radius: 12px;
+    background-color:  red;
+    color: white;
+
+    
+    
+
+}
+#bot{padding: 5px 20PX ;
+    border: 5px solid red;
+    border-radius: 12px;
+    background-color:  red;
+    color: white;
+}
+#bot:hover{background-color: rgb(202, 76, 97) ;
+}
+.btn:hover{
+    background-color: rgb(202, 76, 97) ;
+}
+
+    
+
+
+.btdot{
+    border: 0px solid  red ;
+     background-color:  red;
+    color: white;
+    
+}
+
+
+.wwe{
+    margin-left: 30px;
+    margin-top: 40px;
+    padding: 7px 5px ;
+    background-color: rgba(128, 128, 128, 0.32);
+    border-radius:15px;
+    width: 120px;
+
+    
+}
+.abu{
+    padding-left: 30px ;
+}
+#main{
+    display: flex;
+    justify-content: center;
+    padding-left: 30px ;
+}
+#wwd{
+    margin: 0 auto ;
+    background-color: rgba(128, 128, 128, 0.32);
+    border-radius: 30px;
+    width: 100px;
+    
+    padding-right: 8px;
+    padding-left: 9px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+}
+.os{
+    text-align: center;
+
+}
+#list{display: flex;
+justify-content:space-between;
+
+
+}
+.box0{
+    margin-left:  100px;
+}
+.box1{
+    margin-left: 100px;
+}
+.box2{
+    margin-left: 100px;
+}
+.poco{
+    display: flex;
+    justify-content: space-between;
+}
+.box3{
+    margin-left: 100px;
+}
+.box4{
+    margin-left:100px ;
+    margin-right: 500px;
+}
+.grace{background: #1D1D1D;
+    ;}
+
+
+.hard{
+    margin-top: 20px;
+    color: white;
+    margin-left: 100px;
+    text-align: left;
+    float: left;
+    width: 500px;
+    height: 239px;
+}
+.soft{ 
+     }  
+.wpas{
+    
+    color:#34CB96;
+    background-color:#1C2F29;
+    border-radius:200px ;
+    width: 200px;
+
+    
+    padding-right: 7px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    
+}
+.fbox4{ display: block;
+
+        width: 600px ;
+         height: 350px;
+         overflow-x: auto;
+         margin-top: 20px;
+         scrollbar-width: none;
+    
+
+        
+         
+
+}
+
+.fbox5{
+    width: 2200px;
+}
+.fbox6{ 
+    color: aliceblue;
+    border-radius:1px solid #353535;
+    border-radius: 12px;
+    background-color:#353535 ;
+    width: 400px;
+    height: 150px;
+    float: left;
+    padding: 15px  10px 10px 10px ;
+    margin-top: 30px;
+
+ }
+.minp{ padding-top: 20px;}
+
+.fbox7{ 
+     color: aliceblue;
+    border-radius:1px solid #353535;
+    border-radius: 12px;
+    background-color:#353535 ;
+    width: 400px;
+    height: 150px;
+    float: left;
+    padding: 15px  10px 10px 10px ;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.minp1{padding-top: 20px;}
+
+
+
+.fbox8{
+    color: aliceblue;
+    border-radius:1px solid #353535;
+    border-radius: 12px;
+    background-color:#353535 ;
+    width: 400px;
+    height: 150px;
+    float: left;
+    padding: 15px  10px 10px 10px ;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+
+.minp2{ padding-top: 20px;}
+
+
+.fbox9{
+    color: aliceblue;
+    border-radius:1px solid #353535;
+    border-radius: 12px;
+    background-color:#353535 ;
+    width: 400px;
+    height: 150px;
+    float: left;
+    padding: 15px  10px 10px 10px ;
+    margin-left: 25px;
+    margin-top: 30px;
+
+}
+.minp3{padding-top: 20px;}
+
+.fbox10{color: aliceblue;
+    border-radius:1px solid #353535;
+    border-radius: 12px;
+    background-color:#353535 ;
+    width: 400px;
+    height: 150px;
+    float: left;
+    padding: 15px  10px 10px 10px ;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.minp3{padding-top: 20px;}
+
+#scully{
+    text-align: center;
+    background-color: #d8d6d6;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    margin-top: 20px;
+
+}
+.btn3{
+    
+    margin: 0px auto ;
+    padding: 5px 20PX ;
+    border: 5px solid red;
+    border-radius: 12px;
+    background-color:  red;
+    color: white;
+}
+.Git{  margin-top: 50px;
+    margin-left: 600px ;
+    padding-right: 7px;
+    padding-left: 7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(128, 128, 128, 0.32);
+    border-radius:20px;
+    width: 120px; ;
+}
+.last{display: block;
+      background-color: rgb(180, 170, 170);
+      height: 200px;
+
+}
+#last1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+    
+}
+
+#last2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+    
+}
+#last3{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+    
+}
+#last4{ padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+    
+}
+.mark{ display: flex;
+   flex-direction: row;}
+
+#magic{padding-left: 400px;
+padding-top: 10px;}
+
+#magic1{padding-left: 40px;
+    padding-top: 10px}
+
+#magic2{padding-left: 40px;
+    padding-top: 10px}
+ 
